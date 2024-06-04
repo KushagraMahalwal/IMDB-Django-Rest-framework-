@@ -7,4 +7,4 @@
 <li>Utilized Django's built-in admin interface for easy management of movie data and user accounts, providing an intuitive backend interface for administrators.</li>
 </ul>
 <br>
-<p>To run the Project Please download the requirement.py file in your system.</p>
+<p>To run the Project Please download the requirement.txt file in your system.</p>
