@@ -83,11 +83,5 @@ source venv/bin/activate   # On Windows use `venv\Scripts\activate`</code></pre>
         </ul>
     </li>
 </ul>
-
-<h2>Contributing</h2>
-<p>Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.</p>
-
-<h2>License</h2>
-<p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for more details.</p>
 </body>
 </html>
